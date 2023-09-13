@@ -3,11 +3,11 @@ turbo (stylized with lower-case) is a compiled programming language developed as
 
 turbo provides low-level memory control while (attempting) to provide a readable syntax inspired by Rust, C, and Python.
 
-_Turbo_:
+_turbo_:
 ```python
 def my_fun() -> int {
-  let x: int = 1;
-  let my_str: str = "Hello World";
+  let x = 1;
+  let my_str = "Hello World";
 
   if (x == 1 or my_str.len() == 10) {
       return 0;
