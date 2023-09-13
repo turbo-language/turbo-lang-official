@@ -1,9 +1,9 @@
 # Introduction:
 turbo (stylized with lower-case) is a compiled programming language developed as a substitute to Rust and C++.
 
-turbo provides low-level memory control while (attempting) to provide a readable syntax inspired by Rust, C, and Python
+turbo provides low-level memory control while (attempting) to provide a readable syntax inspired by Rust, C, and Python.
 
-_Turbo_
+_Turbo_:
 ```python
 def my_fun() -> int {
   let x: int = 1;
@@ -15,7 +15,7 @@ def my_fun() -> int {
 }
 ```
 
-_Python_
+_Python_:
 ```python
 def my_fun():
   x = 1
