@@ -39,9 +39,17 @@ int main(){
 ```
 
 # Use-Cases
-The language's compiler is to be open-sourced, alongside the memory management system.
+The language's compiler is to be open-sourced, alongside the memory management system. 
 
 A few use-cases of the simplistic language are:
 - Basic language learning
 - Debugging and testing algorithms
 - A Template for building a language compiler
+
+
+# Compiling turbo code
+Run the rust project to get started.
+```
+cargo run turbo {main.turbo} <-- Your turbo file.
+```
+
