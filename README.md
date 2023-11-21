@@ -1,5 +1,5 @@
 # Introduction:
-turbo (stylized with lower-case) is a compiled programming language developled as a quick method of testing the turbo memory management system.
+turbo (stylized with lower-case) is a compiled programming language developled as a quick method of testing the turbo memory management system. It uses the [LLVM compiler infrastructre](https://llvm.org/)
 
 turbo provides low level memory control while contiaining a simplistic syntax.
 
@@ -24,3 +24,24 @@ def my_fun():
   if x == 1 or len(my_str) == 10:
     return 0
 ```
+
+_C++_:
+```c++
+int main(){
+  int x = 1;
+  string myStr = "Hello World";
+
+  if !(x == 1 || myStr.size() == 10) {
+      return -1;
+  }
+  return 0;
+}
+```
+
+# Use-Cases
+Although turbo-lang is a programming language, its primary use is for debugging and testing the turbo memory management system. the language's compiler is to be open-sourced, alongside the memory management system.
+
+A few use cases of the simplistic language are:
+- Basic language learning
+- Debugging and testing algorithms
+- A Template for building a language compiler
