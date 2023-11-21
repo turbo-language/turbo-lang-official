@@ -1,5 +1,5 @@
 # Introduction:
-turbo (stylized with lower-case) is a compiled programming language developled as a quick method of testing the complementary memory management system. It uses the [LLVM compiler infrastructre](https://llvm.org/)
+turbo (stylized with lower-case) is a compiled programming language developled as a quick method of testing the complementary memory management system. It uses the [LLVM compiler infrastructure](https://llvm.org/).
 
 turbo provides low level memory control while contiaining a simplistic syntax.
 
