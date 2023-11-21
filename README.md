@@ -1,7 +1,7 @@
 # Introduction:
-turbo (stylized with lower-case) is a compiled programming language developed as a substitute to Rust and C++.
+turbo (stylized with lower-case) is a compiled programming language developled as a quick method of testing the turbo memory management system.
 
-turbo provides low-level memory control while bringing the python readable syntax to a more C-based syntax.
+turbo provides low level memory control while contiaining a simplistic syntax.
 
 _turbo_:
 ```python
